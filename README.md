@@ -7,11 +7,11 @@
 
 ---
 
-### 🚀 About Me  
-- 🌱 Currently learning **Cloud Platforms** & **Advanced Deep Learning Architectures**  
-- 👨‍💻 All projects: [GitHub Portfolio](https://github.com/ArkapratimDas0707)  
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning**  
-- 📫 Reach me at: **arkapratimdas70@gmail.com**
+### About Me  
+- Currently learning **Cloud Platforms** & **Advanced Deep Learning Architectures**  
+- All projects: [GitHub Portfolio](https://github.com/ArkapratimDas0707)  
+- Ask me about **Data Science, Machine Learning, Deep Learning**  
+- Reach me at: **arkapratimdas70@gmail.com**
 
 ---
 
