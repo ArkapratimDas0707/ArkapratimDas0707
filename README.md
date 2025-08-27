@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Arkapratim das</h1>
+<h1 align="center">Hi , I'm Arkapratim das</h1>
 <h3 align="center">Data Scientist/ Data Analyst/ Bioinformatician</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkapratimdas0707&label=Profile%20views&color=0e75b6&style=flat" alt="arkapratimdas0707" /> </p>
 
-- 🌱 I’m currently learning **Cloud Platforms, Advanced Deep Learning architectures**
+-  I’m currently learning **Cloud Platforms, Advanced Deep Learning architectures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArkapratimDas0707](https://github.com/ArkapratimDas0707)
+- All of my projects are available at [https://github.com/ArkapratimDas0707](https://github.com/ArkapratimDas0707)
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning**
+-  Ask me about **Data Science, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **arkapratimdas70@gmail.com**
+-  How to reach me **arkapratimdas70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
