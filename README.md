@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Arkapratim das</h1>
+<h1 align="center">Hi , I'm Arkapratim Das</h1>
 <h3 align="center">Data Scientist/ Data Analyst/ Bioinformatician</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkapratimdas0707&label=Profile%20views&color=0e75b6&style=flat" alt="arkapratimdas0707" /> </p>
