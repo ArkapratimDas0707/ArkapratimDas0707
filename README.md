@@ -1,4 +1,4 @@
-<h1 align="center">💻 Hi, I'm <code>Arkapratim Das</code> 👋</h1>
+<h1 align="center">💻 Hi, I'm <code>Arkapratim Das</code> 
 <h3 align="center"><code>Data Scientist | Data Analyst | Bioinformatician</code></h3>
 
 <p align="center">
