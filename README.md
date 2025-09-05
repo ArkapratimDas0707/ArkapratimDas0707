@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <code>Arkapratim Das</code> 
-<h3 align="center"><code>Data Scientist | Data Analyst | Bioinformatician</code></h3>
+<h3 align="center"><code> Full Stack Data Analyst </code></h3>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=arkapratimdas0707&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
